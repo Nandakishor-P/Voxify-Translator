@@ -39,7 +39,8 @@
 <a href="#"><img src="https://github.com/SamirPaulb/real-time-voice-translator/assets/77569653/73dd62d6-798d-4129-aff3-16d6d932a817" alt="Block Diagram of Voice Translator"></a>
 
 ### Demo Link:
-<a href='#'><img src="https://drive.google.com/file/d/15-K79wWIkRCxounf6j5oR2VwVSBDY_EH/view?usp=drive_link"></a>
+<a href="https://drive.google.com/drive/folders/1B2zFWmqqY164Y9lvsZP6T885yl4VyuT5" target="_blank">Watch the project demo</a>
+
 
 
 
